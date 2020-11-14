@@ -1,0 +1,8 @@
+#rotateCard {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(360deg);
+    transition-duration: 0.5s;
+}

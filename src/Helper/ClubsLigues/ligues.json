@@ -1,0 +1,27 @@
+[
+        {
+            "_id": "5e621fcb6a175811a09ed487",
+            "libelle": "Ligue Dakar",
+            "code": "LG-1583488971044-LBtp6"
+        },
+        {
+            "_id": "5e621fe66a175811a09ed488",
+            "libelle": "Ligue Aikido",
+            "code": "LG-1583488998808-y2vCw"
+        },
+        {
+            "_id": "5e621ff06a175811a09ed489",
+            "libelle": "Ligue Nord",
+            "code": "LG-1583489008440-QWjzG"
+        },
+        {
+            "_id": "5e621ff86a175811a09ed48a",
+            "libelle": "Ligue Sud",
+            "code": "LG-1583489016158-dtKhb"
+        },
+        {
+            "_id": "5e621ffe6a175811a09ed48b",
+            "libelle": "Ligue Centre",
+            "code": "LG-1583489022518-5mI2h"
+        }
+]

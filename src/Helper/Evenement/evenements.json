@@ -1,0 +1,296 @@
+[
+        {
+            "_id": "5e6aaf8f8bf24a2110e9a113",
+            "libelle": "SEMINAIRE DE RESTITUTION REFFERE, SPORT, EDUCATION",
+            "lieu": "DAKAR",
+            "idDate": "5e6aaf498bf24a2110e9a112",
+            "code": "EVT-1584050063648-7GrEO"
+        },
+        {
+            "_id": "5e6ab0a68bf24a2110e9a115",
+            "libelle": "Championnats régionaux Séniors Individuel par Catégorie de Poids",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab0908bf24a2110e9a114",
+            "code": "EVT-1584050342784-mvwhi"
+        },
+        {
+            "_id": "5e6ab0e48bf24a2110e9a117",
+            "libelle": "GRAND SLAM DE PARIS",
+            "lieu": "FRANCE",
+            "idDate": "5e6ab0c88bf24a2110e9a116",
+            "code": "EVT-1584050404924-yfi7y"
+        },
+        {
+            "_id": "5e6ab1118bf24a2110e9a119",
+            "libelle": "Championnats régionaux Séniors Individuel par Catégorie de Poids",
+            "lieu": "THIES",
+            "idDate": "5e6ab0fa8bf24a2110e9a118",
+            "code": "EVT-1584050449585-gJYk7"
+        },
+        {
+            "_id": "5e6ab13b8bf24a2110e9a11a",
+            "libelle": "Championnats régionaux Séniors Individuel par Catégorie de Poids",
+            "lieu": "SAINT LOUIS",
+            "idDate": "5e6ab0fa8bf24a2110e9a118",
+            "code": "EVT-1584050491031-E7ojQ"
+        },
+        {
+            "_id": "5e6ab16d8bf24a2110e9a11c",
+            "libelle": "TSUKINAMI SHIAI Passage de Grade N1",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab1518bf24a2110e9a11b",
+            "code": "EVT-1584050541703-uuj5d"
+        },
+        {
+            "_id": "5e6ab1a78bf24a2110e9a11e",
+            "libelle": "Coupe Président de la Fédération Sénégalaise de Judo",
+            "lieu": "DOJO NATIONAL",
+            "idDate": "5e6ab1838bf24a2110e9a11d",
+            "code": "EVT-1584050599660-sOMlr"
+        },
+        {
+            "_id": "5e6ab1f48bf24a2110e9a120",
+            "libelle": "Championnats du Sénégal Séniors Individuel par Catégorie de Poids / Par Equipe de 6 Mixte",
+            "lieu": "Stadium Lat. Dior",
+            "idDate": "5e6ab1c38bf24a2110e9a11f",
+            "code": "EVT-1584050676171-wqnxv"
+        },
+        {
+            "_id": "5e6ab22b8bf24a2110e9a122",
+            "libelle": "Tournoi des 4 Grand",
+            "lieu": "Gendarmerie",
+            "idDate": "5e6ab20e8bf24a2110e9a121",
+            "code": "EVT-1584050731919-J3pjg"
+        },
+        {
+            "_id": "5e6ab2648bf24a2110e9a124",
+            "libelle": "Challenge de la Petite Cote Benjamins / Minime /Cadets",
+            "lieu": "Saly",
+            "idDate": "5e6ab2428bf24a2110e9a123",
+            "code": "EVT-1584050788353-uK4dH"
+        },
+        {
+            "_id": "5e6ab2a18bf24a2110e9a126",
+            "libelle": "GRAND PRIX RABAT",
+            "lieu": "MAROC",
+            "idDate": "5e6ab27a8bf24a2110e9a125",
+            "code": "EVT-1584050849507-0RgHk"
+        },
+        {
+            "_id": "5e6ab2d18bf24a2110e9a128",
+            "libelle": "TSUKINAMI SHIAI PASSAGE DE GRADE N 2",
+            "lieu": "MAROC",
+            "idDate": "5e6ab2b88bf24a2110e9a127",
+            "code": "EVT-1584050897010-LZYEv"
+        },
+        {
+            "_id": "5e6ab3148bf24a2110e9a12a",
+            "libelle": "Tournoi International de la Ville de St Louis",
+            "lieu": "SAINT LOUIS ",
+            "idDate": "5e6ab2e78bf24a2110e9a129",
+            "code": "EVT-1584050964011-zVXLy"
+        },
+        {
+            "_id": "5e6ab4048bf24a2110e9a12c",
+            "libelle": "Dakar Juniors & Cadets Africain Cup",
+            "lieu": "Marius Ndiaye",
+            "idDate": "5e6ab3e18bf24a2110e9a12b",
+            "code": "EVT-1584051204118-1J9LB"
+        },
+        {
+            "_id": "5e6ab4428bf24a2110e9a12e",
+            "libelle": "Challenge Génération 2022(Benjamins, Minimes, Cadets)Coupe Président CNOSS",
+            "lieu": "Marius Ndiaye",
+            "idDate": "5e6ab41d8bf24a2110e9a12d",
+            "code": "EVT-1584051266507-ikQu1"
+        },
+        {
+            "_id": "5e6ab4748bf24a2110e9a130",
+            "libelle": "TSUKINAMI SHIAI Passage de Grade N 3",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab44f8bf24a2110e9a12f",
+            "code": "EVT-1584051316820-yAKvJ"
+        },
+        {
+            "_id": "5e6ab49d8bf24a2110e9a132",
+            "libelle": "CHALLENGE DU RAIL",
+            "lieu": "THIES",
+            "idDate": "5e6ab4878bf24a2110e9a131",
+            "code": "EVT-1584051357639-XK1kR"
+        },
+        {
+            "_id": "5e6ab4c68bf24a2110e9a134",
+            "libelle": "CHAMPIONNATS D’AFRIQUE SENIORS",
+            "lieu": "MAROC",
+            "idDate": "5e6ab4b18bf24a2110e9a133",
+            "code": "EVT-1584051398713-goGUa"
+        },
+        {
+            "_id": "5e6ab4f58bf24a2110e9a136",
+            "libelle": "Championnats régionaux Cadets et Juniors Individuel par Catégorie de Poids",
+            "lieu": "THIES",
+            "idDate": "5e6ab4d78bf24a2110e9a135",
+            "code": "EVT-1584051445606-uZiVe"
+        },
+        {
+            "_id": "5e6ab52c8bf24a2110e9a138",
+            "libelle": "Stage de Formation Officiels Techniques",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab5128bf24a2110e9a137",
+            "code": "EVT-1584051500595-An06D"
+        },
+        {
+            "_id": "5e6ab5748bf24a2110e9a13a",
+            "libelle": "Championnats régionaux Cadets et Juniors Individuel par Catégorie de Poids",
+            "lieu": "A déterminer",
+            "idDate": "5e6ab5408bf24a2110e9a139",
+            "code": "EVT-1584051572708-8fQNQ"
+        },
+        {
+            "_id": "5e6ab5a78bf24a2110e9a13c",
+            "libelle": "Championnats régionaux Cadets et Juniors Individuel par Catégorie de Poids",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab58b8bf24a2110e9a13b",
+            "code": "EVT-1584051623123-sGC0v"
+        },
+        {
+            "_id": "5e6ab5d58bf24a2110e9a13e",
+            "libelle": "TSUKINAMI SHIAI Passage de Grade N 4",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab5c08bf24a2110e9a13d",
+            "code": "EVT-1584051669656-v2ldN"
+        },
+        {
+            "_id": "5e6ab6008bf24a2110e9a140",
+            "libelle": "Championnats régionaux Cadets et Juniors Individuel par Catégorie de Poids",
+            "lieu": "ZIGUINCHOR",
+            "idDate": "5e6ab5e78bf24a2110e9a13f",
+            "code": "EVT-1584051712811-CLp1g"
+        },
+        {
+            "_id": "5e6ab62f8bf24a2110e9a142",
+            "libelle": "Tournoi International de Judo de la Commune des Parcelles Assainies (AMAJELO)",
+            "lieu": "Parcelles Assainies",
+            "idDate": "5e6ab60e8bf24a2110e9a141",
+            "code": "EVT-1584051759278-PfvDg"
+        },
+        {
+            "_id": "5e6ab6788bf24a2110e9a144",
+            "libelle": "Tournoi Triangulaire Civils – Militaire – Scolaire Universitaire",
+            "lieu": "Amirauté",
+            "idDate": "5e6ab64e8bf24a2110e9a143",
+            "code": "EVT-1584051832648-glAtx"
+        },
+        {
+            "_id": "5e6ab6a18bf24a2110e9a146",
+            "libelle": "TSUKINAMI SHIAI – Passage de Grade N 5",
+            "lieu": "DAKAR ",
+            "idDate": "5e6ab6878bf24a2110e9a145",
+            "code": "EVT-1584051873653-M2dTv"
+        },
+        {
+            "_id": "5e6ab6db8bf24a2110e9a148",
+            "libelle": "Stage de Formation Officiels Techniques",
+            "lieu": "LIGUE CENTRE",
+            "idDate": "5e6ab6b98bf24a2110e9a147",
+            "code": "EVT-1584051931134-8HYir"
+        },
+        {
+            "_id": "5e6ab7088bf24a2110e9a14a",
+            "libelle": "Championnats du Sénégal Cadets et Juniors individuel  Par catégories de poids  et équipe Mixte de 06",
+            "lieu": "SAINT LOUIS",
+            "idDate": "5e6ab6eb8bf24a2110e9a149",
+            "code": "EVT-1584051976434-hNDSC"
+        },
+        {
+            "_id": "5e6ab73d8bf24a2110e9a14c",
+            "libelle": "Coupe du Parlement (Assemblée National)",
+            "lieu": "DAKAR – MN",
+            "idDate": "5e6ab7188bf24a2110e9a14b",
+            "code": "EVT-1584052029380-7vKSJ"
+        },
+        {
+            "_id": "5e6ab7678bf24a2110e9a14e",
+            "libelle": "TSUKINAMI SHIAI – Passage de Grade N 6",
+            "lieu": "DAKAR",
+            "idDate": "5e6ab74c8bf24a2110e9a14d",
+            "code": "EVT-1584052071037-ZrTsc"
+        },
+        {
+            "_id": "5e6ab7d28bf24a2110e9a150",
+            "libelle": "Championnats d’Afrique Cadets et Juniors",
+            "lieu": "TUNISIE",
+            "idDate": "5e6ab7948bf24a2110e9a14f",
+            "code": "EVT-1584052178693-Yx78H"
+        },
+        {
+            "_id": "5e6b6bb66997724fcc82179e",
+            "libelle": "CUP CADETS / JUNIORS",
+            "lieu": "TUNISIE",
+            "idDate": "5e6b7b69fb76a636bc01a0da",
+            "code": "EVT-1584098230384-QcdKZ"
+        },
+        {
+            "_id": "5e6b6bc66997724fcc82179f",
+            "libelle": "CUP CADETS / JUNIORS",
+            "lieu": "MAROC",
+            "idDate": "5e6ab7f08bf24a2110e9a151",
+            "code": "EVT-1584098246043-FYDaP"
+        },
+        {
+            "_id": "5e6b6c006997724fcc8217a1",
+            "libelle": "Championnats du Sénégal Vétéran",
+            "lieu": "DAKAR",
+            "idDate": "5e6b6be26997724fcc8217a0",
+            "code": "EVT-1584098304104-5CoJq"
+        },
+        {
+            "_id": "5e6b6c336997724fcc8217a3",
+            "libelle": "Journée de Retrouvaille des Anciens",
+            "lieu": "Dojo National",
+            "idDate": "5e6b6c166997724fcc8217a2",
+            "code": "EVT-1584098355052-h96pi"
+        },
+        {
+            "_id": "5e6b6cc26997724fcc8217a5",
+            "libelle": "Coupe Ambassadeur Japon Championnats du Sénégal toutes Catégories",
+            "lieu": "Marius Ndiaye",
+            "idDate": "5e6b6c466997724fcc8217a4",
+            "code": "EVT-1584098498286-8VM1a"
+        },
+        {
+            "_id": "5e6b6cfd6997724fcc8217a7",
+            "libelle": "Stage de Formation Officiels Techniques",
+            "lieu": "Ligue Nord",
+            "idDate": "5e6b6cd66997724fcc8217a6",
+            "code": "EVT-1584098557911-0q0RC"
+        },
+        {
+            "_id": "5e6b6d436997724fcc8217a9",
+            "libelle": "Open de Yaoundé",
+            "lieu": "CAMEROUNE",
+            "idDate": "5e6b6d236997724fcc8217a8",
+            "code": "EVT-1584098627353-BC2OI"
+        },
+        {
+            "_id": "5e6b6d706997724fcc8217ab",
+            "libelle": "Open de Dakar",
+            "lieu": "Dakar Aréna",
+            "idDate": "5e6b6d526997724fcc8217aa",
+            "code": "EVT-1584098672332-KWOeF"
+        },
+        {
+            "_id": "5e6b6da26997724fcc8217ad",
+            "libelle": "Championnats du Sénégal Poussins, Pupilles, Benjamin, Minimes, Cadets",
+            "lieu": "AMADOU BARRY",
+            "idDate": "5e6b6d826997724fcc8217ac",
+            "code": "EVT-1584098722499-iQAMh"
+        },
+        {
+            "_id": "5e6b6ddc6997724fcc8217af",
+            "libelle": "GALA JUDO AWARDS",
+            "lieu": "DAKAR",
+            "idDate": "5e6b6dbe6997724fcc8217ae",
+            "code": "EVT-1584098780336-IRxkG"
+        }
+]

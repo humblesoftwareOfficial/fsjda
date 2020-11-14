@@ -1,0 +1,156 @@
+[
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f652b4d3c330dc507a87",
+            "idCommune": null,
+            "_id": "5e626d63d0120208d4b646dc",
+            "code": "LOC-1583508835346-TcD8b"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f652b4d3c330dc507a87",
+            "idCommune": "5e61513bff3e3a3f7076f07f",
+            "_id": "5e628345c467be2a18b50378",
+            "code": "LOC-1583514437787-tRkNz"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f652b4d3c330dc507a87",
+            "idCommune": "5e6151d9ff3e3a3f7076f080",
+            "_id": "5e628370c467be2a18b50379",
+            "code": "LOC-1583514480434-wTnY4"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f66bb4d3c330dc507a88",
+            "idCommune": "5e6150cbff3e3a3f7076f07e",
+            "_id": "5e6283b9c467be2a18b5037a",
+            "code": "LOC-1583514553435-1JJUy"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f6f4b4d3c330dc507a8b",
+            "idCommune": null,
+            "_id": "5e628413c467be2a18b5037b",
+            "code": "LOC-1583514643364-twd84"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f6fcb4d3c330dc507a8c",
+            "idCommune": null,
+            "_id": "5e63a7ef3385d435189b97af",
+            "code": "LOC-1583589359922-Hw8E9"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": "5e60f66bb4d3c330dc507a88",
+            "idCommune": null,
+            "_id": "5e63aaea3385d435189b97b6",
+            "code": "LOC-1583590122304-XOKSl"
+        },
+        {
+            "idRegion": "5e60f4eea1b0a0365c977bbb",
+            "idDepartement": "5e63abe33385d435189b97b8",
+            "idCommune": null,
+            "_id": "5e63ac243385d435189b97b9",
+            "code": "LOC-1583590436625-zoQsI"
+        },
+        {
+            "idRegion": "5e60f4e4a1b0a0365c977bba",
+            "idDepartement": null,
+            "idCommune": null,
+            "_id": "5e63acfc5d64130388747044",
+            "code": "LOC-1583590652195-zuPgk"
+        },
+        {
+            "idRegion": "5e60f4f6a1b0a0365c977bbc",
+            "idDepartement": "5e60f74cb4d3c330dc507a92",
+            "idCommune": null,
+            "_id": "5e63ad9e5d64130388747046",
+            "code": "LOC-1583590814082-Kwbq2"
+        },
+        {
+            "idRegion": "5e60f4ada1b0a0365c977bb7",
+            "idDepartement": null,
+            "idCommune": null,
+            "_id": "5e63ae5b5d64130388747048",
+            "code": "LOC-1583591003971-uuKwE"
+        },
+        {
+            "idRegion": "5e60f4c3a1b0a0365c977bb9",
+            "idDepartement": "5e60f682b4d3c330dc507a89",
+            "idCommune": null,
+            "_id": "5e63be715d64130388747052",
+            "code": "LOC-1583595121053-zeSy3"
+        },
+        {
+            "idRegion": "5e60f4c3a1b0a0365c977bb9",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "idCommune": null,
+            "_id": "5e63bf475d64130388747055",
+            "code": "LOC-1583595335833-W7BUE"
+        },
+        {
+            "idRegion": "5e60f4c3a1b0a0365c977bb9",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "idCommune": "5e615210ff3e3a3f7076f081",
+            "_id": "5e63c0415d6413038874705a",
+            "code": "LOC-1583595585472-ReEIU"
+        },
+        {
+            "idRegion": "5e60f4c3a1b0a0365c977bb9",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "idCommune": "5e63c15e5d6413038874705e",
+            "_id": "5e63c17e5d6413038874705f",
+            "code": "LOC-1583595902900-pAuXp"
+        },
+        {
+            "idRegion": "5e60f4c3a1b0a0365c977bb9",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "idCommune": "5e63c1535d6413038874705d",
+            "_id": "5e63c18a5d64130388747060",
+            "code": "LOC-1583595914777-q6fek"
+        },
+        {
+            "idRegion": "5e60f4baa1b0a0365c977bb8",
+            "idDepartement": null,
+            "idCommune": null,
+            "_id": "5e63c2c65d64130388747064",
+            "code": "LOC-1583596230126-MVAUQ"
+        },
+        {
+            "idRegion": "5e60f4baa1b0a0365c977bb8",
+            "idDepartement": "5e60f743b4d3c330dc507a91",
+            "idCommune": null,
+            "_id": "5e63c3d65d6413038874706a",
+            "code": "LOC-1583596502287-sCTv0"
+        },
+        {
+            "idRegion": "5e60f4baa1b0a0365c977bb8",
+            "idDepartement": "5e60f735b4d3c330dc507a90",
+            "idCommune": null,
+            "_id": "5e63c44d5d6413038874706d",
+            "code": "LOC-1583596621532-nZYq6"
+        },
+        {
+            "idRegion": "5e60f4baa1b0a0365c977bb8",
+            "idDepartement": "5e60f761b4d3c330dc507a94",
+            "idCommune": null,
+            "_id": "5e63c4a75d6413038874706f",
+            "code": "LOC-1583596711557-ExWG1"
+        },
+        {
+            "idRegion": "5e60f4baa1b0a0365c977bb8",
+            "idDepartement": "5e60f777b4d3c330dc507a96",
+            "idCommune": null,
+            "_id": "5e63c4e05d64130388747071",
+            "code": "LOC-1583596768045-g8iMw"
+        },
+        {
+            "idRegion": "5e60f493a1b0a0365c977bb6",
+            "idDepartement": null,
+            "idCommune": null,
+            "_id": "5e63c5c95d64130388747073",
+            "code": "LOC-1583597001614-qr1GB"
+        }
+]

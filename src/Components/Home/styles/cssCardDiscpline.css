@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:700');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+.bodyDiscipline {
+  align-items: center;
+}
+.titleDiscipline{
+
+  text-align: center;
+}
+.titleDiscipline h1{
+  font-size:50px;
+  font-family: 'Exo', sans-serif;
+}
+
+.h3Discipline{
+
+  font-family: 'Abel', sans-serif;
+  color:rgb(0, 0, 0);
+  text-shadow: 0 0 2px rgb(255,255,255);
+  color: #ffffff;
+}
+
+.pDiscipline{
+  
+  font-family: 'Abel', sans-serif;
+  color: white;
+  text-align:center;
+
+}
+.card2Discipline {
+  text-align:center;
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  background: linear-gradient(rgb(30, 128, 5),rgb(241, 245, 25));
+  animation: animate 1s linear infinite;
+  transition:.6s;
+}
+.card2Discipline img{
+  transform: translateY(15px);
+  width:180px;
+  height:150px;
+}
+.cardDiscipline {
+  background: linear-gradient(rgb(93,94,170),rgb(93,66,103));
+}
+.titreImage {
+  color: white;
+  font-family: Georgia, serif;
+  font-size: 65px;
+}

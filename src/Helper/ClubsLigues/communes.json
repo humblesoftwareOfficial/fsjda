@@ -1,0 +1,38 @@
+[
+        {
+            "_id": "5e6150cbff3e3a3f7076f07e",
+            "libelle": "Keur Massar",
+            "idDepartement": "5e60f66bb4d3c330dc507a88",
+            "code": "COM-1583435979572-19SjA"
+        },
+        {
+            "_id": "5e61513bff3e3a3f7076f07f",
+            "libelle": "Parcelles Assainies",
+            "idDepartement": "5e60f652b4d3c330dc507a87",
+            "code": "COM-1583436091217-OWa6P"
+        },
+        {
+            "_id": "5e6151d9ff3e3a3f7076f080",
+            "libelle": "Grand Yoff",
+            "idDepartement": "5e60f652b4d3c330dc507a87",
+            "code": "COM-1583436249536-lYOrh"
+        },
+        {
+            "_id": "5e615210ff3e3a3f7076f081",
+            "libelle": "Saly",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "code": "COM-1583436304412-l2SVW"
+        },
+        {
+            "_id": "5e63c1535d6413038874705d",
+            "libelle": "Fadiouth",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "code": "COM-1583595859485-OPxxZ"
+        },
+        {
+            "_id": "5e63c15e5d6413038874705e",
+            "libelle": "Ngaparou",
+            "idDepartement": "5e60f6ecb4d3c330dc507a8a",
+            "code": "COM-1583595870857-hQw54"
+        }
+]

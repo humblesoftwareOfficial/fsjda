@@ -1,0 +1,612 @@
+[
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64df6778a1430604c92012",
+        "libelle": "Open de Dakar 2019 ",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "16/11/2019",
+        "dateFin": "17/11/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669095695-BLpvJ"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64df7a78a1430604c92013",
+        "libelle": "CUP Africain Juniors",
+        "lieu": "Casablanca, Maroc",
+        "dateDebut": "00/00/2019",
+        "dateFin": "00/00/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669114998-Wb7UC"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64df9678a1430604c92014",
+        "libelle": "CUP Africain Juniors",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/2019",
+        "dateFin": "00/00/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669142305-VzvZG"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64dfa878a1430604c92015",
+        "libelle": "Championnats d'Afrique Cadets et Juniors",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/2019",
+        "dateFin": "00/00/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669160966-XAZ98"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64dfbf78a1430604c92016",
+        "libelle": "Junior African Cup, Dakar",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/0000",
+        "dateFin": "00/00/0000",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669183611-5cVQV"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64dfd178a1430604c92017",
+        "libelle": "Tournoi international de la ville de Ouagadougou",
+        "lieu": "Ouagadougou, Burkina Faso",
+        "dateDebut": "00/07/2019",
+        "dateFin": "00/07/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669201742-Ff4Cu"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64dfe678a1430604c92018",
+        "libelle": "CUP NDIAMENA TCHAD",
+        "lieu": "Tchad",
+        "dateDebut": "00/03/2019",
+        "dateFin": "00/03/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669222840-E01SY"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64dffb78a1430604c92019",
+        "libelle": "CUP Burundi et Juniors Mars 2019 ",
+        "lieu": "Burundi",
+        "dateDebut": "00/03/2019",
+        "dateFin": "00/03/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583669243282-N0neH"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64e54778a1430604c9201a",
+        "libelle": "12ème Jeux Africains",
+        "lieu": "Rabat, Maroc",
+        "dateDebut": "00/00/2019",
+        "dateFin": "00/00/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583670599029-DXTFb"
+    },
+    {
+        "image": "cajDefault.jpg",
+        "_id": "5e64e56878a1430604c9201b",
+        "libelle": "33ème Championnats d'Afrique de judo",
+        "lieu": "Le Cap , Afrique du Sud",
+        "dateDebut": "25/04/2019",
+        "dateFin": "28/04/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1583670632459-F3RcS"
+    },
+    {
+        "image": "",
+        "_id": "5ee242ba9bacca24087a56da",
+        "libelle": "TOURNOI INTERNATIONAL DE JUDO DE LA VILLE DE SAINT-LOUIS 2020",
+        "lieu": "Saint-Louis, Sénégal",
+        "dateDebut": "14/03/2020",
+        "dateFin": "15/03/2020",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1591886522491-Us3BM"
+    },
+    {
+        "image": "",
+        "_id": "5ee244949bacca24087a56db",
+        "libelle": "CHAMPIONNATS DU SENEGAL 2020 ",
+        "lieu": "Thès, Sénégal",
+        "dateDebut": "22/02/2020",
+        "dateFin": "22/02/2020",
+        "details": "NATIONAL",
+        "code": "CPT-1591886996241-hA58B"
+    },
+    {
+        "image": "",
+        "_id": "5ee244d19bacca24087a56dc",
+        "libelle": "COUPE PRESIDENT FSJDA 2020",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "15/02/2020",
+        "dateFin": "15/02/2020",
+        "details": "NATIONAL",
+        "code": "CPT-1591887057553-cSg7y"
+    },
+    {
+        "image": "",
+        "_id": "5ee245169bacca24087a56dd",
+        "libelle": "CHAMPIONNATS REGIONAUX DE DAKAR 2020",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "01/02/2020",
+        "dateFin": "01/02/2020",
+        "details": "NATIONAL",
+        "code": "CPT-1591887126414-0fcG6"
+    },
+    {
+        "image": "",
+        "_id": "5ee2466f9bacca24087a56de",
+        "libelle": "Coupe Ambassade du Japon 2019",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "13/10/2020",
+        "dateFin": "13/10/2020",
+        "details": "NATIONAL",
+        "code": "CPT-1591887471635-K6d1J"
+    },
+    {
+        "image": "",
+        "_id": "5ee249689bacca24087a56df",
+        "libelle": "TOURNOI INTERNATIONAL DE JUDO DE LA VILLE DE SAINT-LOUIS 2019",
+        "lieu": "Saint-Louis, Sénégal",
+        "dateDebut": "27/06/2019",
+        "dateFin": "28/06/2019",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1591888232899-JTYJB"
+    },
+    {
+        "image": "",
+        "_id": "5ee24a9e9bacca24087a56e0",
+        "libelle": "TOURNOI INTERNATIONAL DE DAKAR 2018",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/2018",
+        "dateFin": "00/00/2018",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1591888542811-0wVJS"
+    },
+    {
+        "image": "",
+        "_id": "5ee24b189bacca24087a56e1",
+        "libelle": "CHAMPIONNAT DU SENEGAL INDIVIDUEL 2018",
+        "lieu": "-, Sénégal",
+        "dateDebut": "00/00/2018",
+        "dateFin": "00/00/2018",
+        "details": "NATIONAL",
+        "code": "CPT-1591888664730-xshQL"
+    },
+    {
+        "image": "",
+        "_id": "5eedee6828398a5b9c2be7b6",
+        "libelle": "11ème Jeux Africains",
+        "lieu": "Brazzaville, Congo",
+        "dateDebut": "00/00/2015",
+        "dateFin": "00/00/2015",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592651368465-degFr"
+    },
+    {
+        "image": "",
+        "_id": "5eedf10d28398a5b9c2be7ba",
+        "libelle": "10ème Jeux Africains",
+        "lieu": "Maputo, Mozambique",
+        "dateDebut": "00/00/2011",
+        "dateFin": "00/00/2011",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592652045680-DDWPk"
+    },
+    {
+        "image": "",
+        "_id": "5eedf1db28398a5b9c2be7bb",
+        "libelle": "9ème Jeux Africains",
+        "lieu": "Alger, Algerie",
+        "dateDebut": "00/00/2007",
+        "dateFin": "00/00/2007",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592652251094-WGk7J"
+    },
+    {
+        "image": "",
+        "_id": "5eedf35828398a5b9c2be7bc",
+        "libelle": "8ème Jeux Africains",
+        "lieu": "Abuja, Nigéria",
+        "dateDebut": "00/00/2003",
+        "dateFin": "00/00/2003",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592652632815-jb7w0"
+    },
+    {
+        "image": "",
+        "_id": "5eedf6ad28398a5b9c2be7bd",
+        "libelle": "7ème Jeux Africains",
+        "lieu": "Johannesburg, Afrique du Sud",
+        "dateDebut": "00/00/1999",
+        "dateFin": "00/00/1999",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592653485994-7I91L"
+    },
+    {
+        "image": "",
+        "_id": "5eedf72d28398a5b9c2be7be",
+        "libelle": "6ème Jeux Africains",
+        "lieu": "Hararé, Zimbabwe",
+        "dateDebut": "00/00/1995",
+        "dateFin": "00/00/1995",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592653613760-c4rys"
+    },
+    {
+        "image": "",
+        "_id": "5eedf85228398a5b9c2be7bf",
+        "libelle": "5ème Jeux Africains",
+        "lieu": "Caire, Egypte",
+        "dateDebut": "00/00/1991",
+        "dateFin": "00/00/1991",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592653906008-pNpXT"
+    },
+    {
+        "image": "",
+        "_id": "5eedf8ba28398a5b9c2be7c0",
+        "libelle": "4ème Jeux Africains",
+        "lieu": "Nairobi, Kenya",
+        "dateDebut": "00/00/1987",
+        "dateFin": "00/00/1987",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592654010762-2tyW6"
+    },
+    {
+        "image": "",
+        "_id": "5eedf95128398a5b9c2be7c1",
+        "libelle": "3ème Jeux Africains",
+        "lieu": "Alger, Algerie",
+        "dateDebut": "00/00/1978",
+        "dateFin": "00/00/1978",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592654161663-ad8UK"
+    },
+    {
+        "image": "",
+        "_id": "5eedf9f628398a5b9c2be7c2",
+        "libelle": "2ème Jeux Africains",
+        "lieu": "Lagos, Nigeria",
+        "dateDebut": "00/00/1973",
+        "dateFin": "00/00/1973",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592654326592-QMais"
+    },
+    {
+        "image": "",
+        "_id": "5eedfa4d28398a5b9c2be7c3",
+        "libelle": "1er Jeux Africains",
+        "lieu": "Brazzaville, Congo",
+        "dateDebut": "00/00/1965",
+        "dateFin": "00/00/1965",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1592654413413-UjJ7l"
+    },
+    {
+        "image": "",
+        "_id": "5ef5d8257aa27528a806088f",
+        "libelle": "32ème Championnats d'Afrique de judo",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/2018",
+        "dateFin": "00/00/2018",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593169957436-Mf6Nv"
+    },
+    {
+        "image": "",
+        "_id": "5ef5db3d7aa27528a8060890",
+        "libelle": "31ème Championnats d'Afrique de Judo",
+        "lieu": "Antananarivo, Madagascar",
+        "dateDebut": "00/00/2017",
+        "dateFin": "00/00/2017",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593170749310-HbRbw"
+    },
+    {
+        "image": "",
+        "_id": "5ef5dd397aa27528a8060891",
+        "libelle": "30ème Championnats d'Afrique de Judo",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/2016",
+        "dateFin": "00/00/2016",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593171257965-riNJB"
+    },
+    {
+        "image": "",
+        "_id": "5ef5dda47aa27528a8060892",
+        "libelle": "29ème Championnats d'Afrique de Judo",
+        "lieu": "Libreville, Gabon",
+        "dateDebut": "00/00/2015",
+        "dateFin": "00/00/2015",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593171364053-yMFWs"
+    },
+    {
+        "image": "",
+        "_id": "5ef5defa7aa27528a8060893",
+        "libelle": "28ème Championnats d'Afrique de Judo",
+        "lieu": "Port Louis, Iles Maurice",
+        "dateDebut": "00/00/2014",
+        "dateFin": "00/00/2014",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593171706152-4hHqf"
+    },
+    {
+        "image": "",
+        "_id": "5ef5df977aa27528a8060894",
+        "libelle": "27ème Championnats d'Afrique de Judo",
+        "lieu": "Maputo, Mozambique",
+        "dateDebut": "00/00/2013",
+        "dateFin": "00/00/2013",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593171863832-g836b"
+    },
+    {
+        "image": "",
+        "_id": "5ef5e0927aa27528a8060895",
+        "libelle": "26ème Championnats d'Afrique de Judo",
+        "lieu": "Agadir, Maroc",
+        "dateDebut": "00/00/2012",
+        "dateFin": "00/00/2012",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593172114849-JfudP"
+    },
+    {
+        "image": "",
+        "_id": "5ef5e1277aa27528a8060896",
+        "libelle": "25ème Championnats d'Afrique de Judo",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/2011",
+        "dateFin": "00/00/2011",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593172263721-WsX69"
+    },
+    {
+        "image": "",
+        "_id": "5ef5e27d7aa27528a8060897",
+        "libelle": "24ème Championnats d'Afrique de Judo",
+        "lieu": "Yaoundé, Cameroun",
+        "dateDebut": "00/00/2010",
+        "dateFin": "00/00/2010",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593172605502-2fOea"
+    },
+    {
+        "image": "",
+        "_id": "5ef5e3237aa27528a8060898",
+        "libelle": "23ème Championnats d'Afrique de Judo",
+        "lieu": "Ile Maurice",
+        "dateDebut": "00/00/2009",
+        "dateFin": "00/00/2009",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593172771761-PlMNc"
+    },
+    {
+        "image": "",
+        "_id": "5ef5eee97aa27528a8060899",
+        "libelle": "22ème Championnats d'Afrique de Judo",
+        "lieu": "Agadir, Maroc",
+        "dateDebut": "00/00/2008",
+        "dateFin": "00/00/2008",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593175785911-uz3vK"
+    },
+    {
+        "image": "",
+        "_id": "5ef5f2567aa27528a806089a",
+        "libelle": "21ème Championnats d'Afrique de Judo",
+        "lieu": "Ila Maurice",
+        "dateDebut": "00/00/2006",
+        "dateFin": "00/00/2006",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593176662886-vy0KV"
+    },
+    {
+        "image": "",
+        "_id": "5ef5f7917aa27528a806089b",
+        "libelle": "20ème Championnats d'Afrique de Judo",
+        "lieu": "Port Elizabeth, Afrique du Sud",
+        "dateDebut": "00/00/2005",
+        "dateFin": "00/00/2005",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593178001142-EDFEt"
+    },
+    {
+        "image": "",
+        "_id": "5ef5f9277aa27528a806089c",
+        "libelle": "19ème Championnats d'Afrique de Judo",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/2004",
+        "dateFin": "00/00/2004",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593178407048-J94E8"
+    },
+    {
+        "image": "",
+        "_id": "5ef5f9b77aa27528a806089d",
+        "libelle": "18ème Championnats d'Afrique de Judo",
+        "lieu": "Caire, Egypte",
+        "dateDebut": "00/00/2002",
+        "dateFin": "00/00/2002",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593178551371-avh7B"
+    },
+    {
+        "image": "",
+        "_id": "5ef73e077aa27528a806089e",
+        "libelle": "17ème Championnats d'Afrique de Judo",
+        "lieu": "Tripoli, Libye",
+        "dateDebut": "00/00/2001",
+        "dateFin": "00/00/2001",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593261575935-eejoP"
+    },
+    {
+        "image": "",
+        "_id": "5ef73e827aa27528a806089f",
+        "libelle": "16ème Championnats d'Afrique de Judo",
+        "lieu": "Alger, Algerie",
+        "dateDebut": "00/00/2000",
+        "dateFin": "00/00/2000",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593261698165-KaX13"
+    },
+    {
+        "image": "",
+        "_id": "5ef73f9e7aa27528a80608a0",
+        "libelle": "15ème Championnats d'Afrique de Judo",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/1998",
+        "dateFin": "00/00/1998",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593261982009-uinWX"
+    },
+    {
+        "image": "",
+        "_id": "5ef7404d7aa27528a80608a1",
+        "libelle": "14ème Championnats d'Afrique de Judo",
+        "lieu": "Casablanca, Maroc",
+        "dateDebut": "00/00/1997",
+        "dateFin": "00/00/1997",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593262157228-8HO0n"
+    },
+    {
+        "image": "",
+        "_id": "5ef741037aa27528a80608a2",
+        "libelle": "13ème Championnats d'Afrique de Judo",
+        "lieu": "Pretoria, Afrique du Sud",
+        "dateDebut": "00/00/1996",
+        "dateFin": "00/00/1996",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593262339286-7JyYz"
+    },
+    {
+        "image": "",
+        "_id": "5ef7426f7aa27528a80608a4",
+        "libelle": "12ème Championnats d'Afrique de Judo",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/1994",
+        "dateFin": "00/00/1994",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593262703448-FDEFU"
+    },
+    {
+        "image": "",
+        "_id": "5ef742da7aa27528a80608a5",
+        "libelle": "11ème Championnats d'Afrique de Judo",
+        "lieu": "Ile Maurice",
+        "dateDebut": "00/00/1992",
+        "dateFin": "00/00/1992",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593262810253-beE1B"
+    },
+    {
+        "image": "",
+        "_id": "5ef744457aa27528a80608a6",
+        "libelle": "10ème Championnats d'Afrique de Judo",
+        "lieu": "Alger, Algerie",
+        "dateDebut": "00/00/1990",
+        "dateFin": "00/00/1990",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1593263173390-uSzeY"
+    },
+    {
+        "image": "",
+        "_id": "5f06e75fa8ecea6f7073d8c8",
+        "libelle": "9ème Championnats d'Afrique de Judo",
+        "lieu": "Abidjan, Côte d'Ivoire",
+        "dateDebut": "00/00/1989",
+        "dateFin": "00/00/1989",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594287967646-4yhBH"
+    },
+    {
+        "image": "",
+        "_id": "5f06e99da8ecea6f7073d8c9",
+        "libelle": "8ème Championnats d'Afrique de Judo",
+        "lieu": "Casablanca, Maroc",
+        "dateDebut": "00/00/1986",
+        "dateFin": "00/00/1986",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594288541172-mGFo4"
+    },
+    {
+        "image": "",
+        "_id": "5f06ea87a8ecea6f7073d8ca",
+        "libelle": "7ème Championnats d'Afrique de Judo",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/1985",
+        "dateFin": "00/00/1985",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594288775697-78up5"
+    },
+    {
+        "image": "",
+        "_id": "5f06eb07a8ecea6f7073d8cb",
+        "libelle": "6ème Championnats d'Afrique de Judo",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/1983",
+        "dateFin": "00/00/1983",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594288903495-KF0pq"
+    },
+    {
+        "image": "",
+        "_id": "5f06ebd2a8ecea6f7073d8cc",
+        "libelle": "5ème Championnats d'Afrique de Judo",
+        "lieu": "Caire, Egypte",
+        "dateDebut": "00/00/1982",
+        "dateFin": "00/00/1982",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594289106371-9YpuC"
+    },
+    {
+        "image": "",
+        "_id": "5f06ecbfa8ecea6f7073d8cd",
+        "libelle": "4ème Championnats d'Afrique de Judo",
+        "lieu": "Caire, Egypte",
+        "dateDebut": "00/00/1974",
+        "dateFin": "00/00/1974",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594289343916-oPDrS"
+    },
+    {
+        "image": "",
+        "_id": "5f06edb7a8ecea6f7073d8ce",
+        "libelle": "3ème Championnats d'Afrique de Judo",
+        "lieu": "Tunis, Tunisie",
+        "dateDebut": "00/00/1968",
+        "dateFin": "00/00/1968",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594289591634-0WL8M"
+    },
+    {
+        "image": "",
+        "_id": "5f06ef2da8ecea6f7073d8cf",
+        "libelle": "2ème Championnats d'Afrique de Judo",
+        "lieu": "Abidjan, Cote d'Ivoire",
+        "dateDebut": "00/00/1967",
+        "dateFin": "00/00/1967",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594289965953-gykXL"
+    },
+    {
+        "image": "",
+        "_id": "5f06f036a8ecea6f7073d8d0",
+        "libelle": "1er Championnats d'Afrique de Judo",
+        "lieu": "Dakar, Sénégal",
+        "dateDebut": "00/00/1964",
+        "dateFin": "00/00/1964",
+        "details": "INTERNATIONAL",
+        "code": "CPT-1594290230781-hP49X"
+    }
+]

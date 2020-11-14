@@ -1,0 +1,14 @@
+.titreCalendrier {
+    font-size: 17px;
+    font-weight: bold;
+    text-align: justify;
+    color: #021930;
+}
+.LieuEv {
+    float: right;
+    color: #021930
+}
+.background {
+    background-image: url('../../../assets/bg.png') ;
+    background-size:  cover;
+}

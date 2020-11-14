@@ -1,0 +1,37 @@
+[
+        {
+            "_id": "5e60f493a1b0a0365c977bb6",
+            "libelle": "DAKAR",
+            "code": "REG-1583412371002-jcAQ2"
+        },
+        {
+            "_id": "5e60f4ada1b0a0365c977bb7",
+            "libelle": "SAINT LOUIS",
+            "code": "REG-1583412397946-zj7l7"
+        },
+        {
+            "_id": "5e60f4baa1b0a0365c977bb8",
+            "libelle": "ZIGUINCHOR",
+            "code": "REG-1583412410606-uYDFv"
+        },
+        {
+            "_id": "5e60f4c3a1b0a0365c977bb9",
+            "libelle": "THIES",
+            "code": "REG-1583412419761-U3WgT"
+        },
+        {
+            "_id": "5e60f4e4a1b0a0365c977bba",
+            "libelle": "KAOLACK",
+            "code": "REG-1583412452586-sHlYU"
+        },
+        {
+            "_id": "5e60f4eea1b0a0365c977bbb",
+            "libelle": "FATICK",
+            "code": "REG-1583412462992-Sy9Bk"
+        },
+        {
+            "_id": "5e60f4f6a1b0a0365c977bbc",
+            "libelle": "KOLDA",
+            "code": "REG-1583412470631-2MJ8M"
+        }
+]

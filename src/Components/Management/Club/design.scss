@@ -1,0 +1,155 @@
+.contentImageJudo {
+    width: 97%;
+    height: 100%;
+    min-height: 250px;
+    margin-bottom: 5px;
+}
+.contentProcedure {
+  background-color: rgb(11, 24, 34);
+  height: 100%;
+  min-height: 250px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.imgJudo {
+  position: center;
+  height: 10vmin
+}
+.titreProcedure {
+  color: rgb(247, 238, 187);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.titreAccueil {
+  color: rgb(11, 24, 34);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 30px;
+}
+.itemProcedure {
+  color: rgb(247, 238, 187);
+  font-size: 15px;
+  font-family: Verdana, Arial, Tahoma, Serif;
+}
+.itemNb {
+  font-weight: bold;
+}
+.contentTrouverClub {
+  background-color: rgb(255, 255, 255);
+  height: 100%;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.contentFiltreClub {
+  background-color: #face0c;
+  height: 100%;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.contentFiltreClubMobile {
+  background-color: #ffffff;
+  height: 100%;
+ 
+  margin-bottom: 30px;
+  
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.profileClub {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 1px;
+  border: solid #face0c;
+  color: rgb(247, 238, 187);
+}
+.profileClubName{
+  font-size: 12px;
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-weight: bold;
+  color: rgb(11, 24, 34);
+}
+.imgProfileClub {
+  position: center;
+  height: 6vmin
+}
+.hand {
+  cursor: pointer;
+}
+
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+
+.custom-select select {
+  display: none; /*hide original SELECT element:*/
+}
+
+.select-selected {
+  background-color: DodgerBlue;
+}
+
+/*style the arrow inside the select element:*/
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+
+/*style the items (options), including the selected item:*/
+.select-items div,.select-selected {
+  color: #ffffff;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+  cursor: pointer;
+  user-select: none;
+}
+
+/*style items (options):*/
+.select-items {
+  position: absolute;
+  background-color: DodgerBlue;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+
+/*hide the items when the select box is closed:*/
+.select-hide {
+  display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+  background-color: rgba(0, 0, 0, 0.1);
+}

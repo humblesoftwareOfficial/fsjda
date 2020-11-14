@@ -1,0 +1,65 @@
+[
+        {
+            "details": "Expert-comptable;Trésorier du Comité Olympique (CNOSS);Coordonnateur adjoint des Jeux Olympiques de la Jeunesse – JOJ DAKAR 2022",
+            "_id": "5e984c48713af00e18a0b512",
+            "nom": "WADE",
+            "prenom": "Babacar Makhtar",
+            "fonction": "Président",
+            "code": "MB-1587039304003-CRIxv",
+            "img": "president.png"
+        },
+        {
+            "details": "Chef d’entreprise;Directeur en chef de l’Arbitrage Africain",
+            "_id": "5e984d17713af00e18a0b514",
+            "nom": "NGOM",
+            "prenom": "Ababacar",
+            "fonction": "Vice-président",
+            "code": "MB-1587039511033-hh3LZ",
+            "img": "vicepresident.png"
+        },
+        {
+            "details": "Major, CN 8ème DAN",
+            "_id": "5e984d7a713af00e18a0b515",
+            "nom": "TOURE",
+            "prenom": "Seydou Nourou",
+            "fonction": "Vice-président",
+            "code": "MB-1587039610924-W3Mjl",
+            "img": "vicepresidentdeux.png"
+        },
+        {
+            "details": "MBA, manager sportif",
+            "_id": "5e984daf713af00e18a0b516",
+            "nom": "GUEYE",
+            "prenom": "Nafissatou",
+            "fonction": "Vice-présidente",
+            "code": "MB-1587039663661-ubt4s",
+            "img": "vicepresidenttrois.png"
+        },
+        {
+            "details": "Cadre financier",
+            "_id": "5e984cb1713af00e18a0b513",
+            "nom": "DIAKHATE",
+            "prenom": "El Hadji Massata",
+            "fonction": "Secrétaire Général",
+            "code": "MB-1587039409288-KE8q4",
+            "img": "sgeneral.png"
+        },
+        {
+            "details": "Gestionnaire",
+            "_id": "5e984ded713af00e18a0b517",
+            "nom": "FALL",
+            "prenom": "Cheikh Tidiane",
+            "fonction": "Trésorier Général",
+            "code": "MB-1587039725870-NuWkf",
+            "img": "tresorier.png"
+        },
+        {
+            "details": "Enseignant Chercheur",
+            "_id": "5e984e1d713af00e18a0b518",
+            "nom": "NDIAYE",
+            "prenom": "Cheikh Sadibou",
+            "fonction": "Directeur Technique National",
+            "code": "MB-1587039773082-76AWw",
+            "img": "dtn.png"
+        }
+]

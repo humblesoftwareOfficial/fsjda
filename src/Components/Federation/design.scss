@@ -1,0 +1,142 @@
+.contentImageJudo {
+    width: 97%;
+    height: 100%;
+    min-height: 250px;
+    margin-bottom: 5px;
+}
+.contentPrésentation {
+  background-color: rgb(255, 255, 255);
+  height: 90%;
+  min-height: 250px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.contentPrésentationMobileF {
+  background-color: rgb(255, 255, 255);
+  height: 90%;
+  min-height: 250px;
+  margin-top: 5px;
+  padding: 20px 20px 20px 20px;
+  
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.contentPrésentationMobileFC {
+  background-color: rgb(255, 255, 255);
+  height: 90%;
+  min-height: 250px;
+  padding: 20px 20px 20px 20px;
+  
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.imgJudoPresentation {
+  position: center;
+  height: 20vmin
+}
+.imgJudoPresentationPresident {
+  position: center;
+  height: 30vmin
+}
+.imgJudoPresentationGroupe {
+  position: center;
+  width: 80%;
+}
+.titreProcedure {
+  color: rgb(247, 238, 187);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.titreAccueilF {
+  color: rgb(11, 24, 34);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 30px;
+  text-align: left;
+}
+.soustitreAccueilF {
+  color: rgb(11, 24, 34);
+  
+  font-size: 25px;
+  text-align: justify;
+}
+.presentation {
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  text-align: justify;
+}
+.contentLien {
+  background-color: #face0c;
+  height: 100%;
+  position: inherit;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+  color: rgb(11, 24, 34);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 20px;
+}
+.contentLien:hover {
+  background-color: rgb(11, 24, 34);
+  color: #face0c
+}
+.imgAmbition {
+  position: center;
+  height: 30vmin
+}
+.contentAmbition {
+  background-color: rgb(133, 127, 127);
+}
+.imgObjectifs {
+  position: center;
+  height: 40vmin;
+  margin-bottom: 20px;
+}
+.imgEquipe {
+  position: center;
+  height: 100%;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.rcorner {
+  border-radius: 25px;
+  border: 2px solid #face0c;
+  padding: 20px; 
+ 
+}
+.rcornerBlue {
+  border-radius: 25px;
+  border: 2px solid rgb(11, 24, 34);
+  padding: 20px; 
+ 
+}
+.contentPrésentationMenu {
+  background-color: rgb(255, 255, 255);
+  height: 100%;
+  min-height: 500px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+  
+}
+.deroulant {
+  overflow: auto;
+}
+ul.a {list-style-type: circle;}
+ul.c {list-style-type: square;}
+.presentationCeinture {
+  font-family: Verdana, Arial, Tahoma, Serif;
+  color: rgb(11, 24, 34);
+  text-align: justify;
+  font-size: 12px;
+}

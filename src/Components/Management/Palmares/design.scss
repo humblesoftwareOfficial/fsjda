@@ -1,0 +1,65 @@
+.contentSectionPalmares {
+  background-color: rgb(255, 255, 255);
+  height: 100%;
+  min-height: 250px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.contentPalmares {
+  background-color: rgb(255, 255, 255);
+  height: 100%;
+  min-height: 500px;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+.titre {
+  color: #021930;
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.imgSection {
+  position: center;
+  height: 5vmin;
+}
+.sectionProfile {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 1px;
+  border: solid #face0c;
+  color: rgb(247, 238, 187);
+}
+.competitionName{
+  font-size: 13px;
+  
+  font-weight: bold;
+  color: rgb(11, 24, 34);
+}
+.titrePalmares {
+  color: #face0c;
+  
+  font-size: 14px;
+  font-weight: bold;
+}
+.datePalmares {
+  color: #face0c;
+  font-family: Verdana, Arial, Tahoma, Serif;
+  font-size: 10px;
+}
+.deroulantPalmares {
+ 
+  width: 100%; 
+  height: 400px; 
+  overflow: auto; 
+  text-align:justify; 
+}

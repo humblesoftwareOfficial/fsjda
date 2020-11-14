@@ -1,0 +1,74 @@
+[
+        {
+            "_id": "5e60f652b4d3c330dc507a87",
+            "libelle": "Dakar",
+            "code": "DEP-1583412818220-lXmWT",
+            "idRegion": "5e60f493a1b0a0365c977bb6"
+        },
+        {
+            "_id": "5e60f66bb4d3c330dc507a88",
+            "libelle": "Pikine",
+            "code": "DEP-1583412843438-A7Ndq",
+            "idRegion": "5e60f493a1b0a0365c977bb6"
+        },
+        {
+            "_id": "5e60f682b4d3c330dc507a89",
+            "libelle": "Thiès",
+            "code": "DEP-1583412866697-3sSQV",
+            "idRegion": "5e60f4c3a1b0a0365c977bb9"
+        },
+        {
+            "_id": "5e60f6ecb4d3c330dc507a8a",
+            "libelle": "Mbour",
+            "code": "DEP-1583412972559-BnPwA",
+            "idRegion": "5e60f4c3a1b0a0365c977bb9"
+        },
+        {
+            "_id": "5e60f6f4b4d3c330dc507a8b",
+            "libelle": "Rufisque",
+            "code": "DEP-1583412980303-D7vGz",
+            "idRegion": "5e60f493a1b0a0365c977bb6"
+        },
+        {
+            "_id": "5e60f6fcb4d3c330dc507a8c",
+            "libelle": "Guédiawaye",
+            "code": "DEP-1583412988641-VSK83",
+            "idRegion": "5e60f493a1b0a0365c977bb6"
+        },
+        {
+            "_id": "5e60f735b4d3c330dc507a90",
+            "libelle": "Cabrousse",
+            "code": "DEP-1583413045968-BqYgi",
+            "idRegion": "5e60f4baa1b0a0365c977bb8"
+        },
+        {
+            "_id": "5e60f743b4d3c330dc507a91",
+            "libelle": "Bignona",
+            "code": "DEP-1583413059606-xxRZ6",
+            "idRegion": "5e60f4baa1b0a0365c977bb8"
+        },
+        {
+            "_id": "5e60f74cb4d3c330dc507a92",
+            "libelle": "Vélingara",
+            "code": "DEP-1583413068509-HtDWc",
+            "idRegion": "5e60f4f6a1b0a0365c977bbc"
+        },
+        {
+            "_id": "5e60f761b4d3c330dc507a94",
+            "libelle": "Kagnobon",
+            "code": "DEP-1583413089393-4nbk5",
+            "idRegion": "5e60f4baa1b0a0365c977bb8"
+        },
+        {
+            "_id": "5e60f777b4d3c330dc507a96",
+            "libelle": "MLOMP",
+            "code": "DEP-1583413111230-xVyyT",
+            "idRegion": "5e60f4baa1b0a0365c977bb8"
+        },
+        {
+            "_id": "5e63abe33385d435189b97b8",
+            "libelle": "Gossas",
+            "idRegion": "5e60f4eea1b0a0365c977bbb",
+            "code": "DEP-1583590371288-2xpyv"
+        }
+]

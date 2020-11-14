@@ -1,0 +1,572 @@
+[
+    {
+        "id": "1",
+        "nom": "NDIAYE Mbagnick",
+        "points": [
+            "1255 pts, +100 kg"
+        ],
+        "place": [
+            "33"
+        ]
+    },
+    {
+        "id": "2",
+        "nom": "FAYE Anna Siga",
+        "points": [
+            "344 pts, -63 kg",
+            "26 pts, -63 kg"
+        ],
+        "place": [
+            "5",
+            "159"
+        ]
+    },
+    {
+        "id": "3",
+        "nom": "DIAO Abderahmane",
+        "points": [
+            "320 pts, -90 kg"
+        ],
+        "place": [
+            "82"
+        ]
+    },
+    {
+        "id": "4",
+        "nom": "DIATTA Yacine",
+        "points": [
+            "302 pts, -70 kg",
+            "130 pts, -70 kg"
+        ],
+        "place": [
+            "4",
+            "95"
+        ]
+    },
+    {
+        "id": "5",
+        "nom": "DIOP Moussa",
+        "points": [
+            "261 pts, -60 kg"
+        ],
+        "place": [
+            "96"
+        ]
+    },
+    {
+        "id": "6",
+        "nom": "SAGNA Monica",
+        "points": [
+            "218 pts, +78 kg"
+        ],
+        "place": [
+            "64"
+        ]
+    },
+    {
+        "id": "7",
+        "nom": "SAGNA Georgette",
+        "points": [
+            "195 pts, +78 kg"
+        ],
+        "place": [
+            "70"
+        ]
+    },
+    {
+        "id": "8",
+        "nom": "MBOUP Mbene",
+        "points": [
+            "145 pts, -48 kg",
+            "24 pts, -48 kg"
+        ],
+        "place": [
+            "17",
+            "164"
+        ]
+    },
+    {
+        "id": "9",
+        "nom": "GAYE Serigne",
+        "points": [
+            "140 pts, -66 kg",
+            "44 pts, -66 kg"
+        ],
+        "place": [
+            "15",
+            "235"
+        ]
+    },
+    {
+        "id": "10",
+        "nom": "NDIAYE Bigue",
+        "points": [
+            "100 pts, -78 kg",
+            "10 pts, -78 kg"
+        ],
+        "place": [
+            "18",
+            "145"
+        ]
+    },
+    {
+        "id": "11",
+        "nom": "FALL Ibrahima",
+        "points": [
+            "100 pts, -50 kg"
+        ],
+        "place": [
+            "12"
+        ]
+    },
+    {
+        "id": "12",
+        "nom": "SY Abdoulaye Alassane",
+        "points": [
+            "78 pts, -60 kg"
+        ],
+        "place": [
+            "173"
+        ]
+    },
+    {
+        "id": "13",
+        "nom": "SECK Oulimata",
+        "points": [
+            "70 pts, +78 kg"
+        ],
+        "place": [
+            "29"
+        ]
+    },
+    {
+        "id": "14",
+        "nom": "SAMB Abiboulaye",
+        "points": [
+            "70 pts, -73 kg"
+        ],
+        "place": [
+            "26"
+        ]
+    },
+    {
+        "id": "15",
+        "nom": "DIATTA Abo Landing",
+        "points": [
+            "68 pts, -81 kg"
+        ],
+        "place": [
+            "191"
+        ]
+    },
+    {
+        "id": "16",
+        "nom": "KAMARA Ndeye Oumy",
+        "points": [
+            "67 pts, -57 kg"
+        ],
+        "place": [
+            "144"
+        ]
+    },
+    {
+        "id": "17",
+        "nom": "KAMBAYE Souleymane",
+        "points": [
+            "60 pts, -81 kg",
+            "20 pts, -73 kg",
+            "10 pts, -73 kg"
+        ],
+        "place": [
+            "14",
+            "43",
+            "106"
+        ]
+    },
+    {
+        "id": "18",
+        "nom": "MBOUP Mouhamed",
+        "points": [
+            "60 pts, -50 kg"
+        ],
+        "place": [
+            "25"
+        ]
+    },
+    {
+        "id": "19",
+        "nom": "NDIONE Binta",
+        "points": [
+            "60 pts, -40 kg",
+            "10 pts, -48 kg"
+        ],
+        "place": [
+            "20",
+            "93"
+        ]
+    },
+    {
+        "id": "20",
+        "nom": "COULIBALY Boubacar",
+        "points": [
+            "60 pts, -55 kg",
+            "10 pts, -60 kg"
+        ],
+        "place": [
+            "27",
+            "136"
+        ]
+    },
+    {
+        "id": "21",
+        "nom": "FALL Amadou Diop",
+        "points": [
+            "53 pts, -73 kg"
+        ],
+        "place": [
+            "233"
+        ]
+    },
+    {
+        "id": "22",
+        "nom": "DJIBA Yacine",
+        "points": [
+            "51 pts, -78 kg",
+            "1 pts, +70 kg"
+        ],
+        "place": [
+            "34",
+            "61"
+        ]
+    },
+    {
+        "id": "23",
+        "nom": "NDIAYE Saliou",
+        "points": [
+            "50 pts, -81 kg"
+        ],
+        "place": [
+            "212"
+        ]
+    },
+    {
+        "id": "24",
+        "nom": "NDAO Ndeye Marie",
+        "points": [
+            "44 pts, -63 kg"
+        ],
+        "place": [
+            "144"
+        ]
+    },
+    {
+        "id": "25",
+        "nom": "DIEDHIOU Justine A.",
+        "points": [
+            "40 pts, -48 kg"
+        ],
+        "place": [
+            "34"
+        ]
+    },
+    {
+        "id": "26",
+        "nom": "DIOP Aicha Dado",
+        "points": [
+            "40 pts, -48 kg"
+        ],
+        "place": [
+            "63"
+        ]
+    },
+    {
+        "id": "27",
+        "nom": "MBALLO Oumar",
+        "points": [
+            "40 pts, -55 kg"
+        ],
+        "place": [
+            "35"
+        ]
+    },
+    {
+        "id": "28",
+        "nom": "SECK Serigne Mourtala",
+        "points": [
+            "39 pts, -81 kg"
+        ],
+        "place": [
+            "237"
+        ]
+    },
+    {
+        "id": "29",
+        "nom": "KEITA Harouna",
+        "points": [
+            "39 pts, -60 kg"
+        ],
+        "place": [
+            "226"
+        ]
+    },
+    {
+        "id": "30",
+        "nom": "MENDY Leup",
+        "points": [
+            "31 pts, -81 kg"
+        ],
+        "place": [
+            "60"
+        ]
+    },
+    {
+        "id": "31",
+        "nom": "TRAORE Mariama",
+        "points": [
+            "30 pts, -63 kg"
+        ],
+        "place": [
+            "65"
+        ]
+    },
+    {
+        "id": "32",
+        "nom": "TEUW Khadija",
+        "points": [
+            "30 pts, +78 kg"
+        ],
+        "place": [
+            "44"
+        ]
+    },
+    {
+        "id": "33",
+        "nom": "DIEDHIOU Arabietou",
+        "points": [
+            "30 pts, -57 kg"
+        ],
+        "place": [
+            "59"
+        ]
+    },
+    {
+        "id": "34",
+        "nom": "BADJI Fatou Kine",
+        "points": [
+            "25 pts, -63 kg"
+        ],
+        "place": [
+            "162"
+        ]
+    },
+    {
+        "id": "35",
+        "nom": "DIOP Tidiane",
+        "points": [
+            "20 pts, -73 kg"
+        ],
+        "place": [
+            "299"
+        ]
+    },
+    {
+        "id": "36",
+        "nom": "THIAM Ndeye Coumba",
+        "points": [
+            "20 pts, -48 kg"
+        ],
+        "place": [
+            "71"
+        ]
+    },
+    {
+        "id": "37",
+        "nom": "DIOP Malick",
+        "points": [
+            "20 pts, +100 kg"
+        ],
+        "place": [
+            "43"
+        ]
+    },
+    {
+        "id": "38",
+        "nom": "BEN TAMBA Salaha",
+        "points": [
+            "20 pts, +78 kg"
+        ],
+        "place": [
+            "49"
+        ]
+    },
+    {
+        "id": "39",
+        "nom": "FALL Ndeye Fatou",
+        "points": [
+            "20 pts, -63 kg"
+        ],
+        "place": [
+            "78"
+        ]
+    },
+    {
+        "id": "40",
+        "nom": "SONKO Diodio",
+        "points": [
+            "20 pts, -52 kg"
+        ],
+        "place": [
+            "63"
+        ]
+    },
+    {
+        "id": "41",
+        "nom": "NDIAYE Libasse",
+        "points": [
+            "20 pts, -81 kg"
+        ],
+        "place": [
+            "33"
+        ]
+    },
+    {
+        "id": "42",
+        "nom": "DIATTA Jeannot",
+        "points": [
+            "18 pts, -66 kg"
+        ],
+        "place": [
+            "305"
+        ]
+    },
+    {
+        "id": "43",
+        "nom": "MATAR Ndoye",
+        "points": [
+            "18 pts, -81 kg"
+        ],
+        "place": [
+            "290"
+        ]
+    },
+    {
+        "id": "44",
+        "nom": "FALL Modou",
+        "points": [
+            "13 pts, -90 kg"
+        ],
+        "place": [
+            "272"
+        ]
+    },
+    {
+        "id": "45",
+        "nom": "COLY Bacary",
+        "points": [
+            "10 pts, -60 kg"
+        ],
+        "place": [
+            "136"
+        ]
+    },
+    {
+        "id": "46",
+        "nom": "GUEYE Mouhamed Moustapha",
+        "points": [
+            "10 pts, -66 kg"
+        ],
+        "place": [
+            "122"
+        ]
+    },
+    {
+        "id": "47",
+        "nom": "MAODO Malick",
+        "points": [
+            "8 pts, -66 kg"
+        ],
+        "place": [
+            "362"
+        ]
+    },
+    {
+        "id": "48",
+        "nom": "DIOP Amar Kebe",
+        "points": [
+            "8 pts, -66 kg"
+        ],
+        "place": [
+            "135"
+        ]
+    },
+    {
+        "id": "49",
+        "nom": "GUEYE Mohamed",
+        "points": [
+            "1 pts, -81 kg"
+        ],
+        "place": [
+            "170"
+        ]
+    },
+    {
+        "id": "50",
+        "nom": "NDIAYE Adama",
+        "points": [
+            "1 pts, -57 kg"
+        ],
+        "place": [
+            "120"
+        ]
+    },
+    {
+        "id": "51",
+        "nom": "THIOUB Khady",
+        "points": [
+            "1 pts, -70 kg"
+        ],
+        "place": [
+            "79"
+        ]
+    },
+    {
+        "id": "52",
+        "nom": "MBAYE Amina",
+        "points": [
+            "1 pts, -44 kg"
+        ],
+        "place": [
+            "101"
+        ]
+    },
+    {
+        "id": "53",
+        "nom": "CARVALHO Angele",
+        "points": [
+            "1 pts, -52 kg"
+        ],
+        "place": [
+            "142"
+        ]
+    },
+    {
+        "id": "54",
+        "nom": "KEBE Assane Paye",
+        "points": [
+            "1 pts, -90 kg"
+        ],
+        "place": [
+            "69"
+        ]
+    },
+    {
+        "id": "55",
+        "nom": "FALL Alioune Badara Thienella",
+        "points": [
+            "1 pts, +90 kg"
+        ],
+        "place": [
+            "49"
+        ]
+    }
+]

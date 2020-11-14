@@ -1,0 +1,107 @@
+.dotEvenement {
+    height: 40px;
+    width: 40px;
+    border-radius: 10%;
+    display: inline-block;
+    margin-right: 1px;
+    border: solid #fcb901;
+    color: rgb(247, 238, 187);
+    text-align: center;
+}
+.textEvenement {
+    color: rgb(247, 238, 187);
+    font-family: Verdana, Arial, Tahoma, Serif;
+    text-align: center;
+    font-size: 11px;
+}
+.textEvenementPhone {
+  color: rgb(247, 238, 187);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  text-align: center;
+  font-size: 14px;
+}
+.today {
+  margin-bottom: 5px;
+  margin-right: 25px;
+  background-color: #fcb90100;
+  border-style: solid ;
+  color: rgb(247, 238, 187);
+  padding: 0.8em;
+  span {
+    display: block;
+    text-align: center;
+  }
+  .evenement {
+    font-weight: 700;
+    font-size: 14px;
+    text-shadow: 2px 3px 2px rgba(#000, 0.18);
+    
+  }
+}
+.today:hover {
+  margin-bottom: 5px;
+  margin-right: 25px;
+  background-color: rgb(247, 238, 187);
+  border-style: none ;
+  color: rgb(0, 0, 0);
+  padding: 0.8em;
+  span {
+    display: block;
+    text-align: center;
+  }
+  .evenement {
+    font-weight: 700;
+    font-size: 14px;
+    text-shadow: 2px 3px 2px rgba(#000, 0.18);
+    
+  }
+}
+.titreEvenement {
+  font-size: 17px;
+  color: #021930;
+}
+.contentEvenement {
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.textDateEvenement {
+  color: rgb(247, 238, 187);
+  font-family: Verdana, Arial, Tahoma, Serif;
+  text-align: right;
+  position: relative;
+}
+.dotCalendrier {
+  height: 0px;
+  width: 60px;
+  border-radius: 1%;
+  display: inline-block;
+  margin-right: 1px;
+  border: solid #021930;
+  text-align: center;
+}
+.textDateCalendrier {
+  color: #face0c;
+  font-family: Verdana, Arial, Tahoma, Serif;
+  text-align: left;
+  position: relative;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.contentEvenementFsjda {
+  background-color: rgb(255, 255, 255);
+  min-height: 200px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 8px 40px rgba(#000000fa, 0.2);
+}
+hr.separatorEvenement {
+  color:   #021930;
+  border-radius: 5px;
+   
+}
