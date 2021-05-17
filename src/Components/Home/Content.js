@@ -2,10 +2,6 @@ import React, { Component } from 'react'
 import { Layout, Col, Row } from 'antd'
 import {Link} from 'react-router-dom'
 import ContentImage from './ContentImage'
-import image_un from '../../assets/fsjda/1.jpg'
-import image_deux from '../../assets/fsjda/2.jpg'
-import image_trois from '../../assets/fsjda/3.jpg'
-import image_quatre from '../../assets/fsjda/4.jpg'
 import 'antd/dist/antd.css';
 import ico_un from '../../assets/icones/1.png'
 import ico_deux from '../../assets/icones/2.png'
@@ -23,32 +19,6 @@ export default class Content extends Component {
             device: '',
             titre: '',
             description: '',
-            Images: [
-                {
-                    index: 1,
-                    image: image_un,
-                    titre: 'First slide label',
-                    description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.'
-                },
-                {
-                    index: 2,
-                    image: image_deux,
-                    titre: 'Second slide label',
-                    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-                },
-                {
-                    index: 1,
-                    image: image_trois,
-                    titre: 'Third slide label',
-                    description: 'Praesent commodo cursus magna, vel scelerisque nisl consectetur.'
-                },
-                {
-                    index: 1,
-                    image: image_quatre,
-                    titre: 'Hortense Diedhiou',
-                    description: 'Praesent commodo cursus magna, vel scelerisque nisl consectetur.'
-                },
-            ]
         }
         this.onImageChange = this.onImageChange.bind(this)
     }
@@ -94,7 +64,7 @@ export default class Content extends Component {
 
                                     <Col span={14}>
                                         <div >
-                                            <ContentImage onImageChange={this.onImageChange} Images={this.state.Images}></ContentImage>
+                                            <ContentImage onImageChange={this.onImageChange} ></ContentImage>
                                         </div>
                                         
                                         <h4 style={{ color: 'rgb(247, 238, 187)' }} className="titreImage">{this.state.titre}</h4>

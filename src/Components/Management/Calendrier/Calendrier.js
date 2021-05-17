@@ -106,7 +106,7 @@ export default class Calendrier extends Component {
                                 <Col>
                                     <div className="contentLigueMobile">
                                         <p className='titre'>
-                                            CALENDRIER DES ACTIVITES DE LA FEDERATION SENEGALAISE DE JUDO SAISON 2020
+                                            CALENDRIER DES ACTIVITES DE LA FEDERATION SENEGALAISE DE JUDO SAISON 2021
                                         </p>
                                         <hr className="separator" />
                                         <Collapse defaultActiveKey={['0']} >

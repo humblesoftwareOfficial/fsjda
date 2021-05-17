@@ -88,24 +88,6 @@ export default class EvenementsMois extends Component {
     }
     async getEvenementsMonth() {
         try {
-            /*
-            const payload = {
-                mm: this.props.mois
-            }
-            await api.GetEvenementsForMonth(payload).then((response) => {
-                if (response.data.success) {
-                    this.setState({
-                        evenements: response.data.data,
-                        today: this.getEvenementDuJour(response.data.data)
-                    })
-                }
-            }).catch(err => {
-                console.log('ERREUR/ ' + err)
-                this.setState({
-                    evenements: []
-                })
-            })
-            */
            this.setState({
                evenements: HelperEvenement.getEvenementsMonth(this.props.mois)
            })
