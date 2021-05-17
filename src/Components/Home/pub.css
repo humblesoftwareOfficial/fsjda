@@ -2,7 +2,7 @@
     display: block; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 999; /* Sit on top */
-    padding-top: 100px; /* Location of the box */
+    padding-top: 50px; /* Location of the box */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
@@ -15,12 +15,13 @@
   /* Modal Content */
   .modal-content {
     margin: auto;
-    width: 60%;
+    background-color: transparent;
   }
   
   /* The Close Button */
   .close-modal {
-    color: #aaaaaa;
+    color: red;
+    background-color: beige;
     float: right;
     font-size: 28px;
     font-weight: bold;

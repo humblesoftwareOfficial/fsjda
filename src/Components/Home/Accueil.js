@@ -12,12 +12,13 @@ import AccesRapide from "./AccueilAccessCard";
 import SocialNetworks from "./SocialNetworks";
 import ActualitesVideos from "../Actualites/ActualitesVideos/ActualiteVideosContent";
 import pub from "../../assets/fsjda/pub.png";
-import "./pub.css"
+import utils from "../../Utils/detectDevice";
+import "./pub.css";
 export default class Accueil extends Component {
-    constructor(props) {
-        super(props);
-        this.onClose = this.onClose.bind(this);
-    }
+  constructor(props) {
+    super(props);
+    this.onClose = this.onClose.bind(this);
+  }
   componentDidMount() {
     window.scrollTo(0, 0);
   }
@@ -39,12 +40,26 @@ export default class Accueil extends Component {
         <Partenaires />
 
         <Footer></Footer>
-        <div id="myModal" className="modal">
-          <div className="modal-content">
-            <span className="close-modal" onClick={this.onClose}>&times;</span>
-            <img alt="c_a_j_2021" src={pub}/>
+        {utils.DetectDevice() === "MOBILE" ? (
+          <div id="myModal" className="modal">
+            <div className="modal-content" style={{ width: window.innerWidth }}>
+              <span className="close-modal" onClick={this.onClose}>
+                &times;
+              </span>
+              <img alt="c_a_j_2021" src={pub} style={{ width: "80%", marginLeft: "10%" }} />
+            </div>
           </div>
-        </div>
+        ) : (
+          <div id="myModal" className="modal">
+            <div className="modal-content" style={{ width: "30%" }}>
+              <span className="close-modal" onClick={this.onClose}>
+                &times;
+              </span>
+              <img alt="c_a_j_2021" src={pub} style={{ width: "100%" }} />
+              
+            </div>
+          </div>
+        )}
       </Layout>
     );
   }
