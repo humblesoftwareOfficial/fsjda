@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import {
   HomePrincipal,
   Image,
@@ -8,7 +9,8 @@ import {
 } from "../../../../Style/Style/Styling";
 import ContentImage from "../../../Home/ContentImage";
 import Widgets from "./Widgets";
-export default function Principal() {
+
+export default function Principal({ device }) {
   const [titre, setTitre] = useState({});
   const onImageChange = (titre, description) => {
     setTitre({
@@ -17,16 +19,27 @@ export default function Principal() {
     });
   };
   return (
-    <HomePrincipal>
-      <LeftHomePrincipal>
-        <Image src="https://res.cloudinary.com/faceshop/image/upload/v1621266807/FSJDA/Publicite_cqsvcu.png" />
-      </LeftHomePrincipal>
-      <CenterHomePrincipal>
-        <ContentImage onImageChange={onImageChange} />
-      </CenterHomePrincipal>
-      <RightHomePrincipal>
-          <Widgets/>
-      </RightHomePrincipal>
+    <HomePrincipal mobile={device === "MOBILE"}>
+      {device === "MOBILE" ? (
+        <div style={{display: 'block'}}>
+          <ContentImage onImageChange={onImageChange} />
+          <div style={{padding: "5px"}}>
+            <Widgets mobile={true}/>
+          </div>
+        </div>
+      ) : (
+        <>
+          <LeftHomePrincipal>
+            <Image src="https://res.cloudinary.com/faceshop/image/upload/v1621266807/FSJDA/Publicite_cqsvcu.png" />
+          </LeftHomePrincipal>
+          <CenterHomePrincipal>
+            <ContentImage onImageChange={onImageChange} />
+          </CenterHomePrincipal>
+          <RightHomePrincipal>
+            <Widgets />
+          </RightHomePrincipal>
+        </>
+      )}
     </HomePrincipal>
   );
 }

@@ -53,7 +53,7 @@ export default class Content extends Component {
     render() {
         return (
             <div>
-                <Principal/>
+                <Principal device={this.state.device}/>
                 {/* {
                     this.state.device === 'LAPTOP' ?
                         (

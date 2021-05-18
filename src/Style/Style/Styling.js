@@ -57,7 +57,7 @@ export const AddressText = styled("div")`
 export const HomePrincipal = styled("div")`
   width: 100%;
   background-color: rgb(22, 42, 58);
-  padding: 20px;
+  padding: ${(props) => props.mobile ? "0px" : "20px"};
   display: flex;
   margin-top: 5px
 `;
@@ -89,4 +89,12 @@ export const Image = styled("img")`
   width: 100%;
   object-fit: cover;
   border-radius: 5px;
+`;
+
+export const FixedLabel = styled("div")`
+position: absolute;
+bottom: 50px;
+width: -webkit-fill-available;
+background-color: white;
+justify-content: center;
 `;

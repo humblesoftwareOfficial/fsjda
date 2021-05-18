@@ -3,6 +3,7 @@ import { Carousel } from "react-bootstrap";
 import { Layout } from "antd";
 import images from "../Update/Constants/images.json";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { FixedLabel } from "../../Style/Style/Styling";
 const { Content } = Layout;
 
 export default class ContentImage extends Component {
@@ -75,7 +76,7 @@ export default class ContentImage extends Component {
   render() {
     return (
       <Content style={{ marginTop: 0 }}>
-        <div>
+        <div style={{position: 'relative'}}>
           <Carousel
             interval={5000}
             activeIndex={this.state.index}
@@ -84,6 +85,9 @@ export default class ContentImage extends Component {
           >
             {this.renderImagesItem()}
           </Carousel>
+          <FixedLabel>
+            <small>Championnats du Sénégal 2021 (Saint-Louis)</small>
+          </FixedLabel>
         </div>
       </Content>
     );
