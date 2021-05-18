@@ -12,6 +12,7 @@ import ico_six from '../../assets/icones/6.png'
 import ico_sept from '../../assets/icones/7.png'
 import ico_huit from '../../assets/icones/8.png'
 import ico_neuf from '../../assets/icones/9.png'
+import Principal from '../Update/Home/Principal';
 export default class Content extends Component {
     constructor(props) {
         super(props);
@@ -52,8 +53,8 @@ export default class Content extends Component {
     render() {
         return (
             <div>
-
-                {
+                <Principal/>
+                {/* {
                     this.state.device === 'LAPTOP' ?
                         (
                             <Layout style={{
@@ -255,7 +256,7 @@ export default class Content extends Component {
                                 }
                             </>
                         )
-                }
+                } */}
 
             </div>
         )

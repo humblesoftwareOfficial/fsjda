@@ -30,7 +30,7 @@ export default class Accueil extends Component {
     return (
       <Layout>
         <Header fixed={true}/>
-        <Content></Content>
+        <Content/>
         <BarreEvenements />
         <ActualitesVideos />
         <AccesRapide />

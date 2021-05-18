@@ -21,7 +21,7 @@ export default function SocialIcons({ mobile = false }) {
 
   const renderSocialLinks = () =>
     links.map((option, index) => (
-      <li>
+      <li key={option.link}>
         <a
           style={{
             width: mobile ? "6vw" : "44px",

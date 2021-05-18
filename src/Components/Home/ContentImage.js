@@ -1,14 +1,7 @@
 import React, { Component } from "react";
 import { Carousel } from "react-bootstrap";
 import { Layout } from "antd";
-import top_image from "../../assets/fsjda/c_a_j.jpeg";
-import image_huit from "../../assets/fsjda/9.jpeg"
-import image_un from "../../assets/fsjda/1.jpg";
-import image_deux from "../../assets/fsjda/2.jpg";
-import image_trois from "../../assets/fsjda/3.jpg";
-import image_quatre from "../../assets/fsjda/4.jpg";
-import image_cinq from "../../assets/fsjda/5.jpg";
-import image_sept from "../../assets/fsjda/7.png";
+import images from "../Update/Constants/images.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 const { Content } = Layout;
 
@@ -20,68 +13,7 @@ export default class ContentImage extends Component {
       index: 0,
       device: "",
       size: "",
-      Images: [
-        {
-            index: 7,
-            image: top_image,
-            titre: "Championnats d'Afrique!",
-            description:
-              "Championnats d'Afrique Séniors Individuels & par équipes mixtes - Dakar 2021",
-            link: "",
-        },
-        {
-            index: 8,
-            image: image_huit,
-            titre: "Championnats d'Afrique 2020!",
-            description:
-              "Championnats d'Afrique 2020 - Antananarivo 2020",
-            link: "",
-        },
-        {
-          index: 6,
-          image: image_sept,
-          titre: "FITNESS EN LIGNE!",
-          description:
-            "Affrontez-vous et vos amis dans notre nouveau défi de fitness en ligne!",
-          link: "https://fit.ijf.org/",
-        },
-        {
-          index: 1,
-          image: image_un,
-          titre: "Mbagnick NDIAYE",
-          description: "Meilleur sportif Sénégalais de l'année 2019.",
-          link: "",
-        },
-        {
-          index: 2,
-          image: image_deux,
-          titre: "Championnat Sénégal",
-          description: "Championnat du Sénégal 2020 à THIES",
-          link: "",
-        },
-        {
-          index: 3,
-          image: image_trois,
-          titre: "Jeux Africains",
-          description:
-            "Jeux Africains de Rabat 2019- Judo: Mbagnick Ndiaye remporte la médaille d’or",
-          link: "",
-        },
-        {
-          index: 4,
-          image: image_quatre,
-          titre: "Championnat d'Afrique",
-          description: "Championnats d'Afrique Cadets & Junior 2019",
-          link: "",
-        },
-        {
-          index: 5,
-          image: image_cinq,
-          titre: "Sportif de l'année 2019",
-          description: "Mbagnick NDIAYE",
-          link: "",
-        },
-      ],
+      Images: images,
     };
     this.handleSelect = this.handleSelect.bind(this);
     //this.onImageChange = this.onImageChange.bind(this)
@@ -129,23 +61,12 @@ export default class ContentImage extends Component {
       return (
         <Carousel.Item key={key} index={imageItem.index}>
           <div className="containerImage">
-            {imageItem.link.length > 0 ? (
-              <a href={imageItem.link} target="blank" style={{ color: "#FFF" }}>
-                <img
-                  className="d-block w-100"
-                  src={imageItem.image}
-                  alt={imageItem.titre}
-                  style={{ height: this.state.size }}
-                />
-              </a>
-            ) : (
               <img
                 className="d-block w-100"
+                style={{ borderRadius: "5px" }}
                 src={imageItem.image}
                 alt={imageItem.titre}
-                style={{ height: this.state.size }}
               />
-            )}
           </div>
         </Carousel.Item>
       );
@@ -156,7 +77,7 @@ export default class ContentImage extends Component {
       <Content style={{ marginTop: 0 }}>
         <div>
           <Carousel
-            interval={10000}
+            interval={5000}
             activeIndex={this.state.index}
             direction={this.state.direction}
             onSelect={this.handleSelect}
