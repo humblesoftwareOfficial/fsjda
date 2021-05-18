@@ -29,7 +29,7 @@ export default class Accueil extends Component {
   render() {
     return (
       <Layout>
-        <Header fixed={true}></Header>
+        <Header fixed={true}/>
         <Content></Content>
         <BarreEvenements />
         <ActualitesVideos />
@@ -40,7 +40,7 @@ export default class Accueil extends Component {
         <Partenaires />
 
         <Footer></Footer>
-        {utils.DetectDevice() === "MOBILE" ? (
+        {/* {utils.DetectDevice() === "MOBILE" ? (
           <div id="myModal" className="modal">
             <div className="modal-content" style={{ width: window.innerWidth }}>
               <span className="close-modal" onClick={this.onClose}>
@@ -59,7 +59,7 @@ export default class Accueil extends Component {
               
             </div>
           </div>
-        )}
+        )} */}
       </Layout>
     );
   }
