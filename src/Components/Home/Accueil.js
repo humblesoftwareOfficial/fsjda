@@ -40,7 +40,7 @@ export default class Accueil extends Component {
         <Partenaires />
 
         <Footer></Footer>
-        {/* {utils.DetectDevice() === "MOBILE" ? (
+        {utils.DetectDevice() === "MOBILE" ? (
           <div id="myModal" className="modal">
             <div className="modal-content" style={{ width: window.innerWidth }}>
               <span className="close-modal" onClick={this.onClose}>
@@ -50,16 +50,8 @@ export default class Accueil extends Component {
             </div>
           </div>
         ) : (
-          <div id="myModal" className="modal">
-            <div className="modal-content" style={{ width: "30%" }}>
-              <span className="close-modal" onClick={this.onClose}>
-                &times;
-              </span>
-              <img alt="c_a_j_2021" src={pub} style={{ width: "100%" }} />
-              
-            </div>
-          </div>
-        )} */}
+          null
+        )}
       </Layout>
     );
   }
