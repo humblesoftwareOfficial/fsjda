@@ -86,7 +86,7 @@ export default class ContentImage extends Component {
             {this.renderImagesItem()}
           </Carousel>
           <FixedLabel>
-            <small>Championnats du Sénégal 2021 (Saint-Louis)</small>
+            <small>{this.props.titre}</small>
           </FixedLabel>
         </div>
       </Content>

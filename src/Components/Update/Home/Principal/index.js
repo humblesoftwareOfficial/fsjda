@@ -22,7 +22,7 @@ export default function Principal({ device }) {
     <HomePrincipal mobile={device === "MOBILE"}>
       {device === "MOBILE" ? (
         <div style={{display: 'block'}}>
-          <ContentImage onImageChange={onImageChange} />
+          <ContentImage onImageChange={onImageChange} titre={titre?.titre}/>
           <div style={{padding: "5px"}}>
             <Widgets mobile={true}/>
           </div>
@@ -33,7 +33,7 @@ export default function Principal({ device }) {
             <Image src="https://res.cloudinary.com/faceshop/image/upload/v1621266807/FSJDA/Publicite_cqsvcu.png" />
           </LeftHomePrincipal>
           <CenterHomePrincipal>
-            <ContentImage onImageChange={onImageChange} />
+            <ContentImage onImageChange={onImageChange} titre={titre?.titre}/>
           </CenterHomePrincipal>
           <RightHomePrincipal>
             <Widgets />
