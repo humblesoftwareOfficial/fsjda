@@ -34,13 +34,12 @@ export default class Accueil extends Component {
         <BarreEvenements />
         <ActualitesVideos />
         <AccesRapide />
-
         <PresentationJudoSengage />
         <SocialNetworks />
         <Partenaires />
 
-        <Footer></Footer>
-        {utils.DetectDevice() === "MOBILE" ? (
+        <Footer/>
+        {/* {utils.DetectDevice() === "MOBILE" ? (
           <div id="myModal" className="modal">
             <div className="modal-content" style={{ width: window.innerWidth }}>
               <span className="close-modal" onClick={this.onClose}>
@@ -51,7 +50,7 @@ export default class Accueil extends Component {
           </div>
         ) : (
           null
-        )}
+        )} */}
       </Layout>
     );
   }

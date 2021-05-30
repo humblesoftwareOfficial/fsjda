@@ -3,8 +3,14 @@
     color: rgb(247, 238, 187);
     font-family: Verdana, Arial, Tahoma, Serif;
 }
+
 .descriptionActualites {
     font-size: 12px;
     color: rgb(247, 238, 187);
     font-family: Verdana, Arial, Tahoma, Serif;
+}
+
+.video {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
